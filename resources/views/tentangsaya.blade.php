@@ -27,7 +27,7 @@
             <p class="mt-3" align="justify">Saya merupakan seorang mahasiswa aktif Universitas Negeri Surabaya jurusan Teknik Informatika. Saya memiliki keterampilan dan keahlian dalam membuat konten, desain maupun menghandle sosial media. Saya juga aktif sebagai campaigner di sosial media dalam bidang sosial dan teknologi. Saya suka terhubung dengan orang yang memiliki keterkaitan dalam bidang yang sama. Hubungi saya dan mari kita berbicara!</p>
 
             <div class="text-center">
-                <a href="/kontak" class="btn btn-primary btn-sm" >  
+                <a href="/hubungisaya" class="btn btn-primary btn-sm" >  
                     <i class="fa fa-address-book"></i> Hubungi Saya
                 </a>
             </div>

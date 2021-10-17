@@ -4,6 +4,9 @@ use App\Http\Controllers\BerandaController;
 use App\Http\Controllers\TentangSayaController;
 use App\Http\Controllers\PengalamanController;
 use App\Http\Controllers\KontakController;
+use App\Http\Controllers\HubungiSayaController;
+use App\Http\Controllers\HubungiSayaMail;
+
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -27,4 +30,6 @@ Route::get('/tentangsaya', [TentangSayaController::class, 'index'])->name('tenta
 
 Route::get('/pengalaman', [PengalamanController::class, 'index'])->name('pengalaman.index');
 
-Route::get('/kontak', [KontakController::class, 'index'])->name('kontak.index');
+Route::get('/hubungisaya', [HubungiSayaController::class, 'index'])->name('hubungisaya.index');
+
+Route::post('/pesandikirim', [HubungiSayaController::class, 'kirimemail'])->name('hubungisaya.dikirim');
