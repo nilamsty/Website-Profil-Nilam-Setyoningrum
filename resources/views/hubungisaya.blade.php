@@ -2,13 +2,21 @@
 
 @section('container')
 
-    <section style="padding-top:60px;">
+<header class="container">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h1 class="display-5 bold">-- Hubungi Saya --</h1>
+        </div>
+    </div>
+</header>
+
+    <section style="padding-top:30px;">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 offset-md-3">
                     <div class="card">
                         <div class="card-header">
-                            Hubungi Saya
+                            <strong>Hubungi saya dengan mengisi form di bawah ini:</strong>
                         </div>
                         <div class="card-body">
 
