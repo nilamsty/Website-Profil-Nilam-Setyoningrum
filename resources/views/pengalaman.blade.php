@@ -14,6 +14,7 @@
     <div class="row">
         <div class="col-md-6 py-3 mb-4">
             <div class="text-center bg-info">
+                <i class="fa fa-school"></i>
                 <h4>Pendidikan</h4>
             </div>
             <br>
@@ -29,6 +30,7 @@
 
         <div class="col-md-6 py-3 mb-4">
             <div class="text-center bg-info">
+                <i class="fa fa-certificate"></i>
                 <h4>Pengalaman</h4>
             </div>
             <br>

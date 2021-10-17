@@ -12,12 +12,12 @@
 <main class="container border">
     <div class="row">
         <div class="col-md-4 py-3 text-center mb-4">
-            <img src="img/nilam.jpg" alt="Nilam Setyoningrum" width="200" class="img-thumbnail rounded-circle">
+            <img src="img/nilamsty.jpg" alt="Nilam Setyoningrum" width="200" class="img-thumbnail rounded-circle">
             <p class="lead mt-2 mb-0">
                 <strong>NILAM SETYONINGRUM</strong>
             </p>
             <p class="lead mt-1">Junior Sosial Media Specialist</p>
-
+            
             
             
             <button type="button" class="btn btn-primary btn-sm"><i class="fa fa-download"></i>  Unduh CV</button>
@@ -36,6 +36,7 @@
 
             <div class="biodata mt-4 mb-4">
                 <div class="text-center bg-info">
+                    <i class="fa fa-info-circle"></i>
                     <h4>Informasi Pribadi</h4>
                 </div>
                 <br>
@@ -74,6 +75,7 @@
 
         <div class="kemampuan mb-4">
             <div class="text-center bg-info">
+                <i class="fa fa-brain"></i>
                 <h4>Kemampuan</h4>
             </div>
             <br>
